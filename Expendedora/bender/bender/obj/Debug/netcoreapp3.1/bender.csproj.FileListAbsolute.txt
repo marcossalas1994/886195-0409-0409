@@ -1,0 +1,13 @@
+C:\Users\marco\Desktop\bender\bender\bender\bin\Debug\netcoreapp3.1\bender.exe
+C:\Users\marco\Desktop\bender\bender\bender\bin\Debug\netcoreapp3.1\bender.deps.json
+C:\Users\marco\Desktop\bender\bender\bender\bin\Debug\netcoreapp3.1\bender.runtimeconfig.json
+C:\Users\marco\Desktop\bender\bender\bender\bin\Debug\netcoreapp3.1\bender.runtimeconfig.dev.json
+C:\Users\marco\Desktop\bender\bender\bender\bin\Debug\netcoreapp3.1\bender.dll
+C:\Users\marco\Desktop\bender\bender\bender\bin\Debug\netcoreapp3.1\bender.pdb
+C:\Users\marco\Desktop\bender\bender\bender\obj\Debug\netcoreapp3.1\bender.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\bender\bender\bender\obj\Debug\netcoreapp3.1\bender.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\bender\bender\bender\obj\Debug\netcoreapp3.1\bender.AssemblyInfo.cs
+C:\Users\marco\Desktop\bender\bender\bender\obj\Debug\netcoreapp3.1\bender.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\bender\bender\bender\obj\Debug\netcoreapp3.1\bender.dll
+C:\Users\marco\Desktop\bender\bender\bender\obj\Debug\netcoreapp3.1\bender.pdb
+C:\Users\marco\Desktop\bender\bender\bender\obj\Debug\netcoreapp3.1\bender.genruntimeconfig.cache
