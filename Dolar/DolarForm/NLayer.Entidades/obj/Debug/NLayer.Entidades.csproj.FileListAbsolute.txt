@@ -1,0 +1,6 @@
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Entidades\bin\Debug\NLayer.Entidades.dll
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Entidades\bin\Debug\NLayer.Entidades.pdb
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Entidades\obj\Debug\NLayer.Entidades.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Entidades\obj\Debug\NLayer.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Entidades\obj\Debug\NLayer.Entidades.dll
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Entidades\obj\Debug\NLayer.Entidades.pdb

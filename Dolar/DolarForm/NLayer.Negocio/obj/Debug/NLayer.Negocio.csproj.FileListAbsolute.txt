@@ -1,0 +1,13 @@
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Negocio\bin\Debug\NLayer.Negocio.dll
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Negocio\bin\Debug\NLayer.Negocio.pdb
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Negocio\bin\Debug\NLayer.Datos.dll
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Negocio\bin\Debug\NLayer.Entidades.dll
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Negocio\bin\Debug\NLayer.Datos.pdb
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Negocio\bin\Debug\NLayer.Entidades.pdb
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Negocio\obj\Debug\NLayer.Negocio.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Negocio\obj\Debug\NLayer.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Negocio\obj\Debug\NLayer.Negocio.csproj.CopyComplete
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Negocio\obj\Debug\NLayer.Negocio.dll
+C:\Users\marco\Desktop\Dolar\DolarForm\NLayer.Negocio\obj\Debug\NLayer.Negocio.pdb
