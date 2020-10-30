@@ -15,16 +15,16 @@ namespace NLayer.Entidades
         [DataMember]
         private DateTime fecha;
         [DataMember]
-        private int oficial_venta;
+        private string oficial_venta;
         [DataMember]
-        private int blue_venta;
+        private string blue_venta;
 
 
         public Dolar()
         {
 
         }
-        public Dolar(DateTime fecha, int oficial_venta, int blue_venta)
+        public Dolar(DateTime fecha, string oficial_venta, string blue_venta)
         {
             this.fecha = fecha;
             this.oficial_venta = oficial_venta;
@@ -44,7 +44,7 @@ namespace NLayer.Entidades
             }
         }
 
-        public int OficialVenta
+        public string OficialVenta
         {
             get
             {
@@ -55,7 +55,7 @@ namespace NLayer.Entidades
                 this.oficial_venta = value;
             }
         }
-        public int BlueVenta    
+        public string BlueVenta    
         {
             get
             {
